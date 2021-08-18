@@ -2,6 +2,15 @@
 Aplikasi website untuk menghitung kepuasan pelanggan menggunakan algoritma naive bayes, 
 menggunakan framework Codeigniter 3, bootsrap 4 dan mysql
 
+## Fitur Fitur 
+*  Multi Level USer
+*  Tambah Data 
+*  List Data
+*  Perhitungan
+*  Tabel
+*  Grafik
+*  Lainnya
+
 ## akun
 ada beberapa akun yang dapat login
 ```
